@@ -19,7 +19,7 @@ We use three datasets to perform our experiments, i.e., IAPR TC-12, MIRFLICKR-25
 ### Citation
 If you find our approach useful in your research, please consider citing:
 ```
-@article{HSCH-TCSVT,
+@article{MIEH-TCSVT,
   title={Multiple Information Embedded Hashing for Large-Scale Cross-Modal Retrieval},
   author={Wang, Yongxin and Zhan, Yu-Wei and Chen, Zhen-Duo and Luo, Xin and Xu, Xin-Shun},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
