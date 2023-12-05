@@ -4,7 +4,7 @@ Source code for paper "Multiple Information Embedded Hashing for Large-Scale Cro
 
 ## Introduction
 ### 0. About the paper
-This repo is the source code for the paper "Multiple Information Embedded Hashing for Large-Scale Cross-Modal Retrieval" on IEEE Transactions on Circuits and Systems for Video Technology ([https://doi.org/xxxx](https://doi.org/xxxx)). If you have any questions about the source code, please contact: yxinwang@hotmail.com.
+This repo is the source code for the paper "Multiple Information Embedded Hashing for Large-Scale Cross-Modal Retrieval" on IEEE Transactions on Circuits and Systems for Video Technology ([https://doi.org/10.1109/TCSVT.2023.3340102](https://doi.org/10.1109/TCSVT.2023.3340102)). If you have any questions about the source code, please contact: yxinwang@hotmail.com.
 
 ### Running Environment
 ```matlab
@@ -23,6 +23,6 @@ If you find our approach useful in your research, please consider citing:
   title={Multiple Information Embedded Hashing for Large-Scale Cross-Modal Retrieval},
   author={Wang, Yongxin and Zhan, Yu-Wei and Chen, Zhen-Duo and Luo, Xin and Xu, Xin-Shun},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  doi={xxxx}
+  doi={10.1109/TCSVT.2023.3340102}
 }
 ```
