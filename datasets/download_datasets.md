@@ -1,9 +1,9 @@
 You can download all datasets using the following link:
-https://pan.baidu.com/s/1MP1_t18bKE6Y8zYoJ3T8CA?pwd=mima
+https://pan.baidu.com/s/1oLeC_pEQlSc9paD61i0kbA?pwd=j2im Password: j2im
 
 
 1. hand-crafted features:
-IAPR TC-12.mat, MIRFLICKR.mat, NUSWIDE10.mat
+IAPRTC.mat, MIRFLICKR.mat, NUSWIDE10.mat
 
 2. CNN features:
 MIRFLICKR_deep.mat
